@@ -32,7 +32,7 @@ A user may create and manage their business database. The database allows for vi
 - *for seeding data into database enter, source db/seeds.sql
 - enter,  \quit
 
-- watch [video tutorial]() for in depth installation and usage
+- watch [video tutorial](https://drive.google.com/file/d/1rUxWIwK-z-UH9XBiZOgMNnQ5gHJI_Mv1/view?usp=sharing) for in depth installation and usage
 
 ## Usage
 

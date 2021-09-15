@@ -26,13 +26,14 @@ A user may create and manage their business database. The database allows for vi
 ## Installation
 - download or clone application
 - open terminal in application root directory
+- open ".env TEMPLATE", fill in with user data, rename to .env
 - enter,'npm i'
 - enter, mysql -u { YOUR MYSQL USERNAME } -p
 - enter, source db/schema.sql
 - *for seeding data into database enter, source db/seeds.sql
 - enter,  \quit
 
-- watch [video tutorial]() for in depth installation and usage
+- watch [video tutorial](https://drive.google.com/file/d/1rUxWIwK-z-UH9XBiZOgMNnQ5gHJI_Mv1/view?usp=sharing) for in depth installation and usage
 
 ## Usage
 

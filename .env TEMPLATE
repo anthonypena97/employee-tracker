@@ -1,0 +1,5 @@
+DB_HOST=YOUR_host
+DB_USER=YOUR_user
+DB_PASS=YOUR_PASS
+
+DB_DB=employee_tracker

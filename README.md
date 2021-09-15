@@ -10,7 +10,7 @@ Application written with Javascript and SQL.
 
 [Node.js](https://nodejs.org/en/) is used for the backend.
 
-The[Inquirer.JS](https://www.npmjs.com/package/inquirer) and [console.table](https://www.npmjs.com/package/console.table) node packages are used.
+The [Inquirer.JS](https://www.npmjs.com/package/inquirer) and [console.table](https://www.npmjs.com/package/console.table) node packages are used.
 
 ## Description
 A user may create and manage their business database. The database allows for viewing all departments, roles, or employee list. One may also add a new department, role or employee, as well as update a current employee.

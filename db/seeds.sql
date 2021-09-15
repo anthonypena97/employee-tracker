@@ -11,7 +11,7 @@ VALUES
   ('Jr Graphic Designer', 4, 70000),
   ('Product Intern', 2, 60000);
 
-INSERT INTO employees (first_name, last_name, role_title, manager_id)
+INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES
   ('David', 'Peterson', 1, 1),
   ('Teresa', 'Sandoval', 2, null),

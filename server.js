@@ -28,7 +28,8 @@ const dataBase = new Promise((resolve, reject) => {
     if (err) throw err;
 
   });
-  resolve('Successfully connected to database............')
+  resolve(`Successfully connected to database......
+  `)
 })
 
 // ========================= APPLICATION LOGIC =========================

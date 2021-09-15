@@ -30,7 +30,7 @@ A user may create and manage their business database. The database allows for vi
 - enter, mysql -u { YOUR MYSQL USERNAME } -p
 - enter, source db/schema.sql
 - *for seeding data into database enter, source db/seeds.sql
-- enter, \quit
+- enter,  \quit
 
 - watch [video tutorial]() for in depth installation and usage
 
